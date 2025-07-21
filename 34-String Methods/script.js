@@ -28,11 +28,11 @@ console.log("Uppercase : " + c);
 c = first_name.toLowerCase();
 console.log("Lowercase : " + c);
 
-c = first_name.indexOf("T");
-console.log("indexOf T : " + c);
+c = first_name.indexOf("L");
+console.log("indexOf L : " + c);
 
-c = first_name.lastIndexOf("T");
-console.log("lastIndexOf T : " + c);
+c = first_name.lastIndexOf("t");
+console.log("lastIndexOf t : " + c);
 
 c = first_name.charAt(1);
 console.log("charAt 1 : " + c);
